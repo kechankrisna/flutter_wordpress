@@ -9,6 +9,10 @@ This package is created by simplified get data from wordpress site api version 2
     cd flutter_wordpress && flutter run
 ```
 
+## Screenshot
+![HOME](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-01%20at%2012.20.58.png)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
