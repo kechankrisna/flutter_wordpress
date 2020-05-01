@@ -10,7 +10,15 @@ This package is created by simplified get data from wordpress site api version 2
 ```
 
 ## Screenshot
-![HOME](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-01%20at%2012.20.58.png)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s1.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s2.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s3.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s4.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s5.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s6.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s7.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s8.png?raw=true)
+![screenshot](https://github.com/kechankrisna/flutter_wordpress/blob/master/screenshots/s9.png?raw=true)
 
 
 This project is a starting point for a Flutter application.
